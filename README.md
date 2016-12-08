@@ -12,3 +12,4 @@ A 5 day forcast weather by city name using react-redux
 	> npm start
 	> in your browser's address input: localhost:8080
 ```
+###### credits: Stephen Grider's ["react-redux" Udemy course](https://www.udemy.com/react-redux/)
